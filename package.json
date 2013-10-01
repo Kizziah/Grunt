@@ -73,7 +73,8 @@
     "grunt-contrib-jshint": "~0.6.4",
     "grunt-contrib-nodeunit": "~0.1.2",
     "grunt-contrib-watch": "~0.2.0",
-    "difflet": "~0.2.3"
+    "difflet": "~0.2.3",
+    "grunt-contrib-coffee": "~0.7.0"
   },
   "contributors": [
     {
